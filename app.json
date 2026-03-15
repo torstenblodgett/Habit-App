@@ -17,8 +17,7 @@
       "bundleIdentifier": "com.scorecard.app",
       "buildNumber": "1",
       "infoPlist": {
-        "NSCameraUsageDescription": "Not used.",
-        "NSPhotoLibraryUsageDescription": "Used to save your shared day card."
+        "NSPhotoLibraryAddUsageDescription": "Used to save your daily score card to your photo library."
       }
     },
     "android": {
